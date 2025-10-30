@@ -24,3 +24,9 @@ O conjunto de dados contém informações sobre milhares de anúncios de imóvei
 - `bedrooms`, `baths`: Número de quartos e banheiros.
 - `Area_in_marla`: Área do imóvel em "marlas" (uma unidade de medida local).
 - `purpose`: Finalidade (Venda ou Aluguel).
+
+### **4. Rodar o projeto**
+
+- Ao executar todas as células do arquivo main, será gerado um arquivo resultado CSV que conterá os dados tratados.
+- No final da main é possível escolher entre dados 'For Sale' e 'For Rent' para os modelos preditivos.
+- Execute os outros arquivos para visualizar os resultados de predição.
